@@ -3,7 +3,8 @@
 
 	body {
 		font-family: "Lato", Helvetica, sans-serif;
-		font-size: 16px;	
+		font-size: 16px;
+		background-color: #222;	
 	}
 	
 h1,
@@ -15,3 +16,35 @@ h6 {
 	font-family: "Sanchez", Georgia, serif;
 }
 
+h1 {
+	font-size: 60px;
+	color: #fff;
+	margin: 0px 0;
+
+}
+
+p {
+	font-size: 22px;
+	color: #ccc;
+	line-height: 1.8;
+	margin: 0px 0;
+
+
+}
+
+.container_header {
+	margin: 250px auto;
+	margin-bottom: 100px;
+	/*top-margin: 250px auto;*/
+	text-align: center;
+	width: auto;
+}
+
+.container_menu {
+	background-color: #AC8420;	
+	margin: 0 auto;
+	margin-bottom: 0 auto;
+	/*top-margin: 250px auto;*/
+	text-align: center;
+	width: 0 auto;
+}
